@@ -1,6 +1,6 @@
 # SAI
 
-A tiny CLI AI tool.
+A tiny CLI AI tool, to ask bash questions from your bash.
 
 Here's an example:
 
